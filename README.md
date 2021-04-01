@@ -1,3 +1,15 @@
+![Home_op](https://user-images.githubusercontent.com/75573132/113326543-6f04c500-9337-11eb-8740-166f7f7e48c8.JPG)
+
+![info_op](https://user-images.githubusercontent.com/75573132/113326553-71671f00-9337-11eb-90ff-b072a2f765d2.JPG)
+
+![slider_op](https://user-images.githubusercontent.com/75573132/113326579-7c21b400-9337-11eb-8d7d-25952daccf1e.JPG)
+
+![FAQ_op](https://user-images.githubusercontent.com/75573132/113326521-67ddb700-9337-11eb-965a-7ac6437966f4.JPG)
+
+![Contact_op](https://user-images.githubusercontent.com/75573132/113326493-5dbbb880-9337-11eb-9d8e-27b38857564b.JPG)
+
+![AboutUs_op](https://user-images.githubusercontent.com/75573132/113326590-7f1ca480-9337-11eb-8e8e-3ee59574b591.JPG)
+
 # Straws
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
